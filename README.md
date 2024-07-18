@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : ปณิตา ดอนเมือง
 
-Vercel URL :
+Vercel URL : https://lab08-2567-660610772.vercel.app/
 
 ---
 
